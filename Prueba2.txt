@@ -1,0 +1,68 @@
+clase publica Hola{
+
+	entero a;
+	
+	publico entero suma(entero b,entero c){
+	
+		entero d;
+		c=200;
+		
+		flotante t;
+		
+		ciclo(b=100;b<=c;b++)
+		{
+			d=b+10;
+		}
+
+
+	 retorno d;	
+		
+		
+	}
+	
+	privado cadena comparacion(){
+	
+	flotante x,z;
+	si(x==z) entonces
+		{
+			System.out.println("Hola");
+		}
+		contrario
+		{
+			System.out.println;
+		}
+	
+	}
+		
+}
+
+
+
+/////////////
+si(x==z)
+		{
+			System.out.println("Variables flotantes");
+		}
+		contrario
+		{
+			System.out.println("Variables distintas");
+		}
+/////////////////
+ciclo(b=100;b<=c;b++)
+		{
+			d=b+10;
+		}
+
+
+	 retorno d;	
+	 
+	 si(e==f)
+		{
+			System.out.println("Variables flotantes");
+		}
+		contrario
+		{
+			System.out.println("Variables distintas");
+		}
+		
+		
